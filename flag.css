@@ -1,0 +1,1626 @@
+.flag {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -0;
+}
+.flag_ad {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -0;
+}
+.flag_ae {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -30px;
+}
+.flag_af {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -30px;
+}
+.flag_ag {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -0;
+}
+.flag_ai {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -30px;
+}
+.flag_al {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -60px;
+}
+.flag_am {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -60px;
+}
+.flag_an {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -60px;
+}
+.flag_ao {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -90px;
+}
+.flag_aq {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -90px;
+}
+.flag_ar {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -90px;
+}
+.flag_as {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -0;
+}
+.flag_at {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -30px;
+}
+.flag_au {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -60px;
+}
+.flag_aw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -90px;
+}
+.flag_az {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -120px;
+}
+.flag_ba {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -120px;
+}
+.flag_bb {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -120px;
+}
+.flag_bd {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -120px;
+}
+.flag_be {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -0;
+}
+.flag_bf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -30px;
+}
+.flag_bg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -60px;
+}
+.flag_bh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -90px;
+}
+.flag_bi {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -120px;
+}
+
+
+
+.flag_bj {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -150px;
+}
+
+
+
+.flag_bm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -150px;
+}
+
+
+
+.flag_bn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -150px;
+}
+
+
+
+.flag_bo {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -150px;
+}
+
+
+
+.flag_br {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -150px;
+}
+
+
+
+.flag_bs {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -180px;
+}
+
+
+
+.flag_bt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -180px;
+}
+
+
+
+.flag_bv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -180px;
+}
+
+
+
+.flag_bw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -180px;
+}
+
+
+
+.flag_by {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -180px;
+}
+
+
+
+.flag_bz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -0;
+}
+
+
+
+.flag_ca {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -30px;
+}
+
+
+
+.flag_cc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -60px;
+}
+
+
+
+.flag_cd {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -90px;
+}
+
+
+
+.flag_cf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -120px;
+}
+
+
+
+.flag_cg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -150px;
+}
+
+
+
+.flag_ch {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -180px;
+}
+
+
+
+.flag_ci {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -210px;
+}
+
+
+
+.flag_ck {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -210px;
+}
+
+
+
+.flag_cl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -210px;
+}
+
+
+
+.flag_cm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -210px;
+}
+
+
+
+.flag_cn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -210px;
+}
+
+
+
+.flag_co {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -210px;
+}
+
+
+
+.flag_cr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -0;
+}
+
+
+
+.flag_cu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -30px;
+}
+
+
+
+.flag_cv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -60px;
+}
+
+
+
+.flag_c {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -90px;
+}
+
+
+
+.flag_cy {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -120px;
+}
+
+
+
+.flag_cz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -150px;
+}
+
+
+
+.flag_de {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -180px;
+}
+
+
+
+.flag_dj {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -210px;
+}
+
+
+
+.flag_dk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -240px;
+}
+
+
+
+.flag_dm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -240px;
+}
+
+
+
+.flag_do {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -240px;
+}
+
+
+
+.flag_dz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -240px;
+}
+
+
+
+.flag_ec {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -240px;
+}
+
+
+
+.flag_ee {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -240px;
+}
+
+
+
+.flag_eg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -240px;
+}
+
+
+
+.flag_eh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -270px;
+}
+
+
+
+.flag_er {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -270px;
+}
+
+
+
+.flag_es {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -270px;
+}
+
+
+
+.flag_et {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -270px;
+}
+
+
+
+.flag_fi {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -270px;
+}
+
+
+
+.flag_fj {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -270px;
+}
+
+
+
+.flag_fk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -270px;
+}
+
+
+
+.flag_fm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -0;
+}
+
+
+
+.flag_fo {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -30px;
+}
+
+
+
+.flag_fr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -60px;
+}
+
+
+
+.flag_ga {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -90px;
+}
+
+
+
+.flag_gd {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -120px;
+}
+
+
+
+.flag_ge {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -150px;
+}
+
+
+
+.flag_gf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -180px;
+}
+
+
+
+.flag_gh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -210px;
+}
+
+
+
+.flag_gi {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -240px;
+}
+
+
+
+.flag_gl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -270px;
+}
+
+
+
+.flag_gm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -300px;
+}
+
+
+
+.flag_gn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -300px;
+}
+
+
+
+.flag_gpx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -300px;
+}
+
+
+
+.flag_gq {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -300px;
+}
+
+
+
+.flag_gr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -300px;
+}
+
+
+
+.flag_gs {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -300px;
+}
+
+
+
+.flag_gt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -300px;
+}
+
+
+
+.flag_gu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -300px;
+}
+
+
+
+.flag_gw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -0;
+}
+
+
+
+.flag_gy {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -30px;
+}
+
+
+
+.flag_hk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -60px;
+}
+
+
+
+.flag_hm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -90px;
+}
+
+
+
+.flag_hn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -120px;
+}
+
+
+
+.flag_hr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -150px;
+}
+
+
+
+.flag_ht {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -180px;
+}
+
+
+
+.flag_hu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -210px;
+}
+
+
+
+.flag_id {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -240px;
+}
+
+
+
+.flag_ie {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -270px;
+}
+
+
+
+.flag_il {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -300px;
+}
+
+
+
+.flag_in {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -330px;
+}
+
+
+
+.flag_io {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -330px;
+}
+
+
+
+.flag_iq {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -330px;
+}
+
+
+
+.flag_ir {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -330px;
+}
+
+
+
+.flag_is {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -330px;
+}
+
+
+
+.flag_it {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -330px;
+}
+
+
+
+.flag_jm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -330px;
+}
+
+
+
+.flag_jo {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -330px;
+}
+
+
+
+.flag_jpx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -330px;
+}
+
+
+
+.flag_ke {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -0;
+}
+
+
+
+.flag_kg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -30px;
+}
+
+
+
+.flag_kh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -60px;
+}
+
+
+
+.flag_ki {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -90px;
+}
+
+
+
+.flag_km {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -120px;
+}
+
+
+
+.flag_kn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -150px;
+}
+
+
+
+.flag_kpx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -180px;
+}
+
+
+
+.flag_kr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -210px;
+}
+
+
+
+.flag_kw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -240px;
+}
+
+
+
+.flag_ky {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -270px;
+}
+
+
+
+.flag_kz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -300px;
+}
+
+
+
+.flag_la {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -330px;
+}
+
+
+
+.flag_lb {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -360px;
+}
+
+
+
+.flag_lc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -360px;
+}
+
+
+
+.flag_li {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -360px;
+}
+
+
+
+.flag_lk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -360px;
+}
+
+
+
+.flag_lr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -360px;
+}
+
+
+
+.flag_ls {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -360px;
+}
+
+
+
+.flag_lt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -360px;
+}
+
+
+
+.flag_lu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -360px;
+}
+
+
+
+.flag_lv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -360px;
+}
+
+
+
+.flag_ly {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -360px;
+}
+
+
+
+.flag_ma {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -390px;
+}
+
+
+
+.flag_mc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -390px;
+}
+
+
+
+.flag_md {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -390px;
+}
+
+
+
+.flag_me {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -390px;
+}
+
+
+
+.flag_mg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -390px;
+}
+
+
+
+.flag_mh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -390px;
+}
+
+
+
+.flag_mk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -390px;
+}
+
+
+
+.flag_ml {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -390px;
+}
+
+
+
+.flag_mm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -390px;
+}
+
+
+
+.flag_mn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -390px;
+}
+
+
+
+.flag_mo {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -0;
+}
+
+
+
+.flag_mpx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -30px;
+}
+
+
+
+.flag_mq {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -60px;
+}
+
+
+
+.flag_mr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -90px;
+}
+
+
+
+.flag_ms {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -120px;
+}
+
+
+
+.flag_mt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -150px;
+}
+
+
+
+.flag_mu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -180px;
+}
+
+
+
+.flag_mv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -210px;
+}
+
+
+
+.flag_mw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -240px;
+}
+
+
+
+.flag_m {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -270px;
+}
+
+
+
+.flag_my {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -300px;
+}
+
+
+
+.flag_mz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -330px;
+}
+
+
+
+.flag_na {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -360px;
+}
+
+
+
+.flag_nc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -390px;
+}
+
+
+
+.flag_ne {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -420px;
+}
+
+
+
+.flag_nf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -420px;
+}
+
+
+
+.flag_ng {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -420px;
+}
+
+
+
+.flag_ni {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -420px;
+}
+
+
+
+.flag_nl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -420px;
+}
+
+
+
+.flag_no {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -420px;
+}
+
+
+
+.flag_npx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -420px;
+}
+
+
+
+.flag_nr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -420px;
+}
+
+
+
+.flag_nu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -420px;
+}
+
+
+
+.flag_nz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -420px;
+}
+
+
+
+.flag_om {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -420px;
+}
+
+
+
+.flag_pa {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -0;
+}
+
+
+
+.flag_pe {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -30px;
+}
+
+
+
+.flag_pf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -60px;
+}
+
+
+
+.flag_pg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -90px;
+}
+
+
+
+.flag_ph {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -120px;
+}
+
+
+
+.flag_pk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -150px;
+}
+
+
+
+.flag_pl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -180px;
+}
+
+
+
+.flag_pm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -210px;
+}
+
+
+
+.flag_pn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -240px;
+}
+
+
+
+.flag_pr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -270px;
+}
+
+
+
+.flag_pt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -300px;
+}
+
+
+
+.flag_pw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -330px;
+}
+
+
+
+.flag_py {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -360px;
+}
+
+
+
+.flag_qa {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -390px;
+}
+
+
+
+.flag_re {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -420px;
+}
+
+
+
+.flag_ro {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -450px;
+}
+
+
+
+.flag_rs {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -450px;
+}
+
+
+
+.flag_ru {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -450px;
+}
+
+
+
+.flag_rw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -450px;
+}
+
+
+
+.flag_sa {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -450px;
+}
+
+
+
+.flag_sb {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -450px;
+}
+
+
+
+.flag_sc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -450px;
+}
+
+
+
+.flag_sd {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -450px;
+}
+
+
+
+.flag_se {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -450px;
+}
+
+
+
+.flag_sg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -450px;
+}
+
+
+
+.flag_sh {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -450px;
+}
+
+
+
+.flag_si {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -450px;
+}
+
+
+
+.flag_sj {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -480px;
+}
+
+
+
+.flag_sk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -480px;
+}
+
+
+
+.flag_sl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -480px;
+}
+
+
+
+.flag_sm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -480px;
+}
+
+
+
+.flag_sn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -480px;
+}
+
+
+
+.flag_so {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -480px;
+}
+
+
+
+.flag_sr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -480px;
+}
+
+
+
+.flag_ss {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -480px;
+}
+
+
+
+.flag_st {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -480px;
+}
+
+
+
+.flag_sv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -480px;
+}
+
+
+
+.flag_sy {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -480px;
+}
+
+
+
+.flag_sz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -480px;
+}
+
+
+
+.flag_tc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -0;
+}
+
+
+
+.flag_td {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -30px;
+}
+
+
+
+.flag_tf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -60px;
+}
+
+
+
+.flag_tg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -90px;
+}
+
+
+
+.flag_th {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -120px;
+}
+
+
+
+.flag_tj {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -150px;
+}
+
+
+
+.flag_tk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -180px;
+}
+
+
+
+.flag_tl {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -210px;
+}
+
+
+
+.flag_tm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -240px;
+}
+
+
+
+.flag_tn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -270px;
+}
+
+
+
+.flag_to {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -300px;
+}
+
+
+
+.flag_tpx {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -330px;
+}
+
+
+
+.flag_tr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -360px;
+}
+
+
+
+.flag_tt {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -390px;
+}
+
+
+
+.flag_tv {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -420px;
+}
+
+
+
+.flag_tw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -450px;
+}
+
+
+
+.flag_ty {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -480px;
+}
+
+
+
+.flag_tz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -0 -510px;
+}
+
+
+
+.flag_ua {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -43px -510px;
+}
+
+
+
+.flag_ug {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -86px -510px;
+}
+
+
+
+.flag_uk {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -129px -510px;
+}
+
+
+
+.flag_um {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -172px -510px;
+}
+
+
+
+.flag_us {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -215px -510px;
+}
+
+
+
+.flag_uy {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -258px -510px;
+}
+
+
+
+.flag_uz {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -301px -510px;
+}
+
+
+
+.flag_va {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -344px -510px;
+}
+
+
+
+.flag_vc {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -387px -510px;
+}
+
+
+
+.flag_ve {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -430px -510px;
+}
+
+
+
+.flag_vg {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -473px -510px;
+}
+
+
+
+.flag_vi {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -516px -510px;
+}
+
+
+
+.flag_vn {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -0;
+}
+
+
+
+.flag_vu {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -30px;
+}
+
+
+
+.flag_wf {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -60px;
+}
+
+
+
+.flag_ws {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -90px;
+}
+
+
+
+.flag_ye {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -120px;
+}
+
+
+
+.flag_za {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -150px;
+}
+
+
+
+.flag_zm {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -180px;
+}
+
+
+
+.flag_zr {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -210px;
+}
+
+
+
+.flag_zw {
+    width: 43px; height: 30px;
+    background: url('./flag-sprite.png') -559px -240px;
+}
